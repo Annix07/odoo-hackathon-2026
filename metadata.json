@@ -1,0 +1,6 @@
+{
+  "name": "HRSync",
+  "description": "Human Resource Management System - Every workday, perfectly aligned.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
